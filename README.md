@@ -1,4 +1,4 @@
-**Project Name: Predicting Battery Range for an Electric Self-Driving Car**
+# **Project Name: Predicting Battery Range for an Electric Self-Driving Car**
  
 # Problem: 
  Electric self-driving cars face the challenge of accurately predicting their remaining battery range. This is a critical issue as inaccurate predictions can lead to inconvenient stops and route disruptions. Factors like battery health, driving conditions, and real-time data are often not adequately considered by existing methods. To address this, the project aims to create a precise battery range prediction system. By employing advanced machine learning techniques and incorporating diverse data sources, such as vehicle sensors and historical driving patterns, we aim to develop a model that can forecast battery range reliably. The goal is to improve the reliability and convenience of electric self-driving cars, advancing sustainable transportation solutions.
